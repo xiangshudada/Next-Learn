@@ -38,3 +38,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+脚手架功能 1.样式配置 2.路由配置 3.权限路由 4.登录页面 5.动态路由 6.服务端生成 7.服务端渲染 8.性能优化 9.嵌套路由 10.布局
+
+//POSTS 服务端渲染
