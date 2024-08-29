@@ -34,11 +34,5 @@ export async function getStaticProps(context: any) {
 }
 
 Home.getLayout = function getLayout(page: ReactElement) {
-  console.log("page", page);
-  return (
-    <div>
-      <p>????</p>
-      {page}
-    </div>
-  );
+  return <div>{page}</div>;
 };
